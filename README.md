@@ -22,9 +22,9 @@ This repo contain a jupyter notebook where I have analyzed for factors contribut
 
 In this repository are my jupyter notebook where you can look for the code, basic analysis and visualization. The second file is the dataset from Kaggle. I'd like to thanks Kaggle for the datasets and medium as a platform to share my analysis.  
 
-## Data source: [Kickstarter Projects](https://www.kaggle.com/datasets/kemical/kickstarter-projects)
 ## Acknowledgement
 
+Data source: [Kickstarter Projects](https://www.kaggle.com/datasets/kemical/kickstarter-projects)
 Dataset Credit:
 
 Mouillé, M. (2017). Kickstarter Projects. 
