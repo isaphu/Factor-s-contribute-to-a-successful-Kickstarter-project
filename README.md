@@ -1,7 +1,7 @@
 # Factors contribute to a successful Kickstarter project
 This repo contain a jupyter notebook where I have analyzed for factors contribute to a suceess Kickstarter project.
 
-##For this analysis I have used the following Python libraries:
+## For this analysis I have used the following Python libraries:
 
 1) Numpy 
 2) Pandas
