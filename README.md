@@ -8,7 +8,7 @@ This repo contain a jupyter notebook where I have analyzed for factors contribut
 3) Seaborn
 4) Matplotlib 
 
-I have chosen this datasets to help those who wanted to launch their campaign on Kickstarter. The result is as follow:
+## I have chosen this datasets to help those who wanted to launch their campaign on Kickstarter. The result is as follow:
 
 1. The average pledge goal is approximately around $5,480, setting higher goal than $10,000 might lead to a failure project.
 2. Music in general or Indie rock are two of the most successful funded project.
