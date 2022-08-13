@@ -25,6 +25,7 @@ In this repository are my jupyter notebook where you can look for the code, basi
 ## Acknowledgement
 
 Data source: [Kickstarter Projects](https://www.kaggle.com/datasets/kemical/kickstarter-projects)
+
 Dataset Credit:
 
 Mouillé, M. (2017). Kickstarter Projects. 
